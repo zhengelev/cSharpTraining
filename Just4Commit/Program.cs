@@ -23,6 +23,8 @@ namespace Just4Commit
                 var actionSpeech2 = "Type 'y' to continue or type 'n' to close app";
 
                 Console.WriteLine(actionSpeech2);
+
+                userAnswer = Console.ReadLine();
                                 
                 if (userAnswer == "y")
                 {
