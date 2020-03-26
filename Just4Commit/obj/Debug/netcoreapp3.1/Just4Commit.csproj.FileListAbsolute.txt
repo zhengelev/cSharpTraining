@@ -1,0 +1,13 @@
+E:\Учеба C#\Documents\cSharpTraining\Just4Commit\bin\Debug\netcoreapp3.1\Just4Commit.exe
+E:\Учеба C#\Documents\cSharpTraining\Just4Commit\bin\Debug\netcoreapp3.1\Just4Commit.deps.json
+E:\Учеба C#\Documents\cSharpTraining\Just4Commit\bin\Debug\netcoreapp3.1\Just4Commit.runtimeconfig.json
+E:\Учеба C#\Documents\cSharpTraining\Just4Commit\bin\Debug\netcoreapp3.1\Just4Commit.runtimeconfig.dev.json
+E:\Учеба C#\Documents\cSharpTraining\Just4Commit\bin\Debug\netcoreapp3.1\Just4Commit.dll
+E:\Учеба C#\Documents\cSharpTraining\Just4Commit\bin\Debug\netcoreapp3.1\Just4Commit.pdb
+E:\Учеба C#\Documents\cSharpTraining\Just4Commit\obj\Debug\netcoreapp3.1\Just4Commit.csprojAssemblyReference.cache
+E:\Учеба C#\Documents\cSharpTraining\Just4Commit\obj\Debug\netcoreapp3.1\Just4Commit.csproj.CoreCompileInputs.cache
+E:\Учеба C#\Documents\cSharpTraining\Just4Commit\obj\Debug\netcoreapp3.1\Just4Commit.AssemblyInfoInputs.cache
+E:\Учеба C#\Documents\cSharpTraining\Just4Commit\obj\Debug\netcoreapp3.1\Just4Commit.AssemblyInfo.cs
+E:\Учеба C#\Documents\cSharpTraining\Just4Commit\obj\Debug\netcoreapp3.1\Just4Commit.dll
+E:\Учеба C#\Documents\cSharpTraining\Just4Commit\obj\Debug\netcoreapp3.1\Just4Commit.pdb
+E:\Учеба C#\Documents\cSharpTraining\Just4Commit\obj\Debug\netcoreapp3.1\Just4Commit.genruntimeconfig.cache
